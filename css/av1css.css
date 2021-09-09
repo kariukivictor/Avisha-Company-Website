@@ -1,0 +1,56 @@
+.p1tittle{
+    font-family: "Monotype Corsiva";
+    font-size: 22px;
+    font-weight: bold;
+    color: slategray;
+    background-color: #020101;
+    padding: 8px 12px;
+    shape-margin: 5px;
+    text-align: center;
+    justify-content: center;
+    align-content: center;
+    border: white;
+    border-radius: 12px;
+    align-items: center;
+
+}
+p{
+    font-size: 12px;
+    padding: 12px by 12px;
+    font-family: "Arial Narrow";
+    color: #000000;
+    background-color: grey;
+}
+h1 {
+    font-size: 48px;
+    padding: 4px 8px;
+    font-family: "Corbel Light";
+}
+body{
+    background-color: #5a6268;
+    color: black;
+    padding: 10px 10px;
+    border-radius: 3px;
+    border: black;
+
+}
+li{
+    text-align: justify;
+    background-color: #1b1e21;
+    color: white;
+    font-family: "Arial Narrow";
+}
+.mv{
+    font-size: 12px;
+    font-family: sans-serif;
+    text-align: center;
+    float: left;
+
+
+}
+hr{
+    align-items: flex-end;
+    margin: 6px;
+    color: black;
+    display: flex;
+}
